@@ -33,7 +33,6 @@ PRODUCT_PACKAGES += \
     InfoApp \
     LatinIME \
     Music \
-    NotifForwardingTester \
     PdfViewerGOS \
     preinstalled-packages-platform-handheld-product.xml \
     SettingsIntelligence \
